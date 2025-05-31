@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# excluding notes file 
+notes.txt
+*.parquet
+*.pkl
+
+
+# excluding mlflow related folders
+mlruns/
+models/
