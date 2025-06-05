@@ -180,3 +180,5 @@ mlruns/
 models/
 *.parquet
 *.pkl
+*.db
+.vscode/
