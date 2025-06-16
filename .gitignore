@@ -176,9 +176,11 @@ cython_debug/
 
 # hidding the files 
 notes.txt
+notes_deployment_and_monitoring.txt
 mlruns/
 models/
 *.parquet
 *.pkl
 *.db
 .vscode/
+*.bin
